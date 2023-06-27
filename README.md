@@ -156,9 +156,9 @@
     Tools used: JavaScript, HTML/CSS, php, SQL
   </li>
   <li>
-    Alumni Class Notes - Rebuilding class note page with Vue.js and masonry
-    grid.
-    <b>*</b>
+    <a href="https://www.geneva.edu/alumni/online-services/class-notes/" target="_blank">
+      Alumni Class Notes
+    </a> - Rebuilding class note page with Vue.js and masonry grid.
     <br />
     Tools used: JavaScript, HTML/Vue.js, CSS, php, SQL
   </li>
@@ -180,5 +180,3 @@
     Tools used: C#, Unity
   </li>
 </ul>
-
-<sub>(<b>*</b> currently developing)</sub>
