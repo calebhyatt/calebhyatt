@@ -1,9 +1,11 @@
-<div style="float: right"><a href="https://app.daily.dev/cahyatt"><img src="https://github.com/calebhyatt/calebhyatt/blob/master/devcard.svg" width="400" alt="Caleb Hyatt's Dev Card"/></a>
-
 <h1 align="center">Hi 👋 I'm Caleb Hyatt</h1>
 <h3 align="center">
-  Aspiring web developer. "Recovering" coffee addict. Founded on Christ.
+  Software engineer and web developer. "Recovering" coffee addict. Founded on Christ.
 </h3>
+
+<p>&nbsp;</p>
+
+<a href="https://app.daily.dev/cahyatt" target="_blank"><img src="https://raw.githubusercontent.com/calebhyatt/calebhyatt/main/devcard.svg" width="250" alt="Caleb Hyatt's Dev Card" align="right" /></a>
 
 <h3>Connect with me:</h3>
 <p>
@@ -182,7 +184,7 @@
   <li>
     Discord Translator Bot - An automated chatbot for Discord, built with Google
     Translate API and sold to
-    <a href="https://nvu.io/" target="_blank">New View</a>.
+    <a href="https://nvu.io/" target="_blank">New View (nvu)</a>.
     <br />
     Tools used: JavaScript/Node.js, Discord.js, Google Translate API
   </li>
