@@ -5,20 +5,6 @@
 
 <p>&nbsp;</p>
 
-<a href="https://app.daily.dev/cahyatt" target="_blank"><img src="https://raw.githubusercontent.com/calebhyatt/calebhyatt/main/devcard.svg" width="250" alt="Caleb Hyatt's Dev Card" align="right" /></a>
-
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/caleb-hyatt-608404140" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="caleb-hyatt-608404140"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
 <h3>Languages and Tools:</h3>
 <p>
   <a
