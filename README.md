@@ -10,7 +10,7 @@
   <li>JavaScript, TypeScript, Node.js</li>
   <li>HTML5/CSS3, Next.js, React.js, Vue.js</li>
   <li>TailwindCSS, Sass</li>
-  <li>C#</li>
+  <li>C# (<a href="https://github.com/calebhyatt?tab=repositories&q=&type=public&language=c%23" target="_blank">see projects</a>)</li>
   <li>Git, GitHub</li>
   <li>php</li>
   <li>MySQL, Postgres, MongoDB</li>
