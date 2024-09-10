@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Caleb Hyatt</h1>
 <h3 align="center">
-  Software engineer and web developer. "Recovering" coffee addict. Founded on Christ.
+  Fullstack software engineer. Coffee enthusiast. Orthodox Christian. ☦️
 </h3>
 
 <p>&nbsp;</p>
@@ -11,7 +11,6 @@
   <li>HTML5/CSS3, Next.js, React.js, Vue.js</li>
   <li>TailwindCSS, Sass</li>
   <li>C# (<a href="https://github.com/calebhyatt?tab=repositories&q=&type=public&language=c%23" target="_blank">see projects</a>)</li>
-  <li>Git, GitHub</li>
   <li>php</li>
   <li>MySQL, Postgres, MongoDB</li>
 </ul>
@@ -19,8 +18,9 @@
 <h3>Tools</h3>
 <ul>
   <li>Visual Studio, Visual Studio Code</li>
+  <li>Git, GitHub, GitLab</li>
   <li>Postman</li>
-  <li>Azure DevOps</li>
+  <li>AWS</li>
 </ul>
 
 <h3>My Projects</h3>
