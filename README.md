@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Caleb Hyatt</h1>
 <h3 align="center">
-  Fullstack software engineer. Coffee enthusiast. Orthodox Christian. ☦️
+  Fullstack software engineer.
 </h3>
 
 <p>&nbsp;</p>
@@ -8,32 +8,22 @@
 <h3>Languages</h3>
 <ul>
   <li>JavaScript, TypeScript, Node.js</li>
-  <li>HTML5/CSS3, Next.js, React.js, Vue.js</li>
-  <li>TailwindCSS, Sass</li>
-  <li>C# (<a href="https://github.com/calebhyatt?tab=repositories&q=&type=public&language=c%23" target="_blank">see projects</a>)</li>
+  <li>HTML5/CSS3, Next.js, React.js</li>
+  <li>TailwindCSS, Sass, Bulma</li>
+  <li>Python</li>
   <li>php</li>
-  <li>MySQL, Postgres, MongoDB</li>
+  <li>MySQL, Postgres</li>
 </ul>
 
 <h3>Tools</h3>
 <ul>
-  <li>Visual Studio, Visual Studio Code</li>
+  <li>JetBrains suite, Visual Studio, Visual Studio Code</li>
   <li>Git, GitHub, GitLab</li>
   <li>Postman</li>
   <li>AWS</li>
 </ul>
 
 <h3>My Projects</h3>
-
-<h4><a href="https://www.acstechnologies.com/" target="_blank">ACS Technologies</a></h4>
-<ul>
-  <li>
-    Parish User Role Manager (in progress)
-    - Tool to use manager parish's user security roles.
-    <br />
-    <span><b>Tools used:</b> JavaScript/jQuery, HTML/CSS, C#</span>
-  </li>
-</ul>
 
 <h4><a href="https://www.geneva.edu/" target="_blank">Geneva College</a></h4>
 <ul>
@@ -66,13 +56,12 @@
 
 <ul>
   <li>
-    College Marketplace (in progress) - An online marketplace for college students to connect and buy, sell, and trade textbooks, furniture, dorm deco, and more.
+    College Marketplace <i>(in progress)</i> - An online marketplace for college students to connect and buy, sell, and trade textbooks, furniture, dorm deco, and more.
     <br />
-    <span><b>Tool used:</b> Next.js, TailwindCSS, NextAuth.js, Prisma, Postgres (<i>Neon database</i>)</span>
+    <span><b>Tool used:</b> Next.js, TailwindCSS, Clerk, Prisma, Postgres (<i><a href="https://neon.tech/" target="_blank">Neon</a></i>)</span>
   </li>
   <li>
-    Discord Translator Bot - An automated chatbot for Discord, built with Google
-    Translate API and sold to
+    Discord Translator Bot - An automated chatbot for Discord, sold to
     <a href="https://nvu.io/" target="_blank">New View (nvu)</a>.
     <br />
     <span><b>Tools used:</b> JavaScript/Node.js, Discord.js, Google Translate API</span>
