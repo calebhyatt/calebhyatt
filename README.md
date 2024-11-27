@@ -56,9 +56,9 @@
 
 <ul>
   <li>
-    College Marketplace <i>(in progress)</i> - An online marketplace for college students to connect and buy, sell, and trade textbooks, furniture, dorm deco, and more.
+    caaampus <i>(in progress)</i> - A social media site for college students to connect, sell textbooks, find clubs, and more.
     <br />
-    <span><b>Tool used:</b> Next.js, TailwindCSS, Clerk, Prisma, Postgres (<i><a href="https://neon.tech/" target="_blank">Neon</a></i>)</span>
+    <span><b>Tool used:</b> Next.js, TailwindCSS, Prisma, Postgres (<i><a href="https://neon.tech/" target="_blank">Neon</a></i>), Vercel, custom authentication</span>
   </li>
   <li>
     Discord Translator Bot - An automated chatbot for Discord, sold to
