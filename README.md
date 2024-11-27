@@ -56,7 +56,7 @@
 
 <ul>
   <li>
-    caaampus <i>(in progress)</i> - A social media site for college students to connect, sell textbooks, find clubs, and more.
+    caaampus <i>(in development)</i> - A social media site for college students to connect, sell textbooks, find clubs, and more.
     <br />
     <span><b>Tool used:</b> Next.js, TailwindCSS, Prisma, Postgres (<i><a href="https://neon.tech/" target="_blank">Neon</a></i>), Vercel, custom authentication</span>
   </li>
