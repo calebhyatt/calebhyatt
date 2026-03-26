@@ -17,9 +17,9 @@
 
 <h3>Tools</h3>
 <ul>
-  <li>JetBrains suite, Visual Studio, Visual Studio Code</li>
+  <li>JetBrains suite (WebStorm, PyCharm, DataGrip, Rider), Visual Studio, Visual Studio Code</li>
   <li>Git, GitHub, GitLab</li>
-  <li>Postman</li>
+  <li>Postman, Bruno</li>
   <li>AWS</li>
 </ul>
 
@@ -59,6 +59,11 @@
     caaampus <i>(in development)</i> - A social media site for college students to connect, sell textbooks, find clubs, and more.
     <br />
     <span><b>Tool used:</b> Next.js, TailwindCSS, Prisma, Postgres (<i><a href="https://neon.tech/" target="_blank">Neon</a></i>), Vercel, custom authentication</span>
+  </li>
+  <li>
+    <a href="https://saints.calebhyatt.com" target="_blank">Hagiography (final name TBD)</a> - A digital encylopedia of the lives of the saints
+    <br />
+    <span><b>Tools used:</b> Next.js, TypeScript, PayloadCMS, Postgres (<i><a href="https://neon.tech/" target="_blank">Neon</a></i>), Vercel, PostHog, onedollarstats</span>
   </li>
   <li>
     Discord Translator Bot - An automated chatbot for Discord, sold to
