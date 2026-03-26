@@ -10,7 +10,7 @@
   <li>JavaScript, TypeScript, Node.js</li>
   <li>HTML5/CSS3, Next.js, React.js</li>
   <li>TailwindCSS, Sass, Bulma</li>
-  <li>Python</li>
+  <li>Python, Flask, SQLAlchemy</li>
   <li>php</li>
   <li>MySQL, Postgres</li>
 </ul>
