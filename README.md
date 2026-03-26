@@ -25,6 +25,13 @@
 
 <h3>My Projects</h3>
 
+<h4><a href="https://www.portagelearning.edu/" target="_blank">Portage Learning</a></h4>
+<ul>
+  <li>Optimizing performance and improving UI/UX of the main website.</li>
+  <li>Building internal admin tools.</li>
+  <li>Redesigned the page for our partner schools.</li>
+</ul>
+
 <h4><a href="https://www.geneva.edu/" target="_blank">Geneva College</a></h4>
 <ul>
   <li>
